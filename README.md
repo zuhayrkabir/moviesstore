@@ -48,19 +48,6 @@ The application follows Django’s **Model–View–Template (MVT)** architectur
 
 ---
 
-# 🧠 User Stories Implemented
-
-- As a user, I can browse movies without logging in
-- As a user, I can create an account and log in securely
-- As a logged-in user, I can create movie reviews
-- As a user, I can edit or delete my own reviews
-- As a user, I cannot modify reviews created by others
-- As a user, I can report inappropriate reviews so they are removed
-
-Each feature was explicitly designed to fulfill these user stories.
-
----
-
 # 🏗️ Tech Stack
 
 **Backend:** Django (Python)  
